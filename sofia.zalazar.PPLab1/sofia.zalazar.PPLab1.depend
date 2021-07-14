@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1626233775 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1626232938 c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\cliente.h
+
+1621987435 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1621987413 c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\color.h
+
+1621989603 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1621989506 c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\servicio.h
+
+1621987470 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1626110856 c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\tipo.h
+
+1626232938 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"utn.h"
+
+1626217315 c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\fecha.h
+
+1621985249 c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\utn.h
+
+1626233437 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"moto.h"
+
+1626232938 c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\moto.h
+	"cliente.h"
+	"tipo.h"
+	"color.h"
+	"utn.h"
+
+1626232938 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"utn.h"
+
+1626232938 c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\trabajo.h
+	"fecha.h"
+	"moto.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"cliente.h"
+
+1626111412 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1626233172 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.tplabi\sofia.zalazar.pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"utn.h"
+	"fecha.h"
+	"trabajo.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"cliente.h"
+
+1621987435 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1621987413 c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\color.h
+
+1626232938 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"utn.h"
+
+1626217315 c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\fecha.h
+
+1621985249 c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\utn.h
+
+1626265500 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"moto.h"
+
+1626232938 c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\moto.h
+	"cliente.h"
+	"tipo.h"
+	"color.h"
+	"utn.h"
+
+1626265569 c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\cliente.h
+
+1626110856 c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\tipo.h
+
+1621989603 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1621989506 c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\servicio.h
+
+1621987470 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1626265601 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"utn.h"
+
+1626232938 c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\trabajo.h
+	"fecha.h"
+	"moto.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"cliente.h"
+
+1626111412 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1626272356 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"utn.h"
+	"fecha.h"
+	"trabajo.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"cliente.h"
+	"informes.h"
+
+1626267964 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1626272356 source:c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
+1626265928 c:\users\sofia\desktop\repositorios\zalazar.sofia.rpplabi\sofia.zalazar.pplab1\informes.h
+	"moto.h"
+	"trabajo.h"
+	"tipo.h"
+	"servicio.h"
+	"color.h"
+	"cliente.h"
+
